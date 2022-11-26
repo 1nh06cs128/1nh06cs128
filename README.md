@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1nh06cs128
+- 👋 Hi, I’m @1nh06cs128, Software Engineer in UI at Vendavo Inc
 - 👀 I’m interested in Data Science and BlockChain
 - 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate on Machine Learning
